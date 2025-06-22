@@ -26,7 +26,7 @@ Conscientizar sobre a importância das abelhas para o ecossistema e, principalme
 ## 👤 Autoria
 - **Aluno:** Jose Augusto Simon dos Santos
 - **Série:** 1ª série B
-- **Escola:** Colégio Cívico Militar Presidente Castelo Branco
+- **Escola:** Colégio Cívico Militar Presidente Castelo Branco. Cleveândia, Paraná.
 - **Componente Curricular:** Pensamento Computacional
 
 ## ✍️ Observações
